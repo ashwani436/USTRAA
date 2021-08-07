@@ -16,7 +16,7 @@ function Nav() {
     </a>
     <form class="d-flex">
       
-      <input class="form-control mx-5"  style={{width:"500px",height:"50px",background:"lightgray"}}type="search" placeholder="Search for a product" aria-label="Search"/>
+      <input class="form-control mx-5"  style={{background:"lightgray"}}type="search" placeholder="Search for a product" aria-label="Search"/>
       </form>
       <div className="mx-5">
       <a href="/">
