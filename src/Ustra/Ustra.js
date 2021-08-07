@@ -34,8 +34,9 @@ function Ustra() {
     
     return(
         < >
-            <Nav/>
+           
             <div className="container">
+            <Nav/>
             <h3 className="my-3">Our Products</h3><hr/>
             <Row data={data}/>
             </div>
