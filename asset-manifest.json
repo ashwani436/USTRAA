@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/USTRAA/static/css/main.b64a0533.chunk.css",
+    "main.js": "/USTRAA/static/js/main.9e238654.chunk.js",
+    "main.js.map": "/USTRAA/static/js/main.9e238654.chunk.js.map",
+    "runtime-main.js": "/USTRAA/static/js/runtime-main.9060347f.js",
+    "runtime-main.js.map": "/USTRAA/static/js/runtime-main.9060347f.js.map",
+    "static/css/2.d45d6843.chunk.css": "/USTRAA/static/css/2.d45d6843.chunk.css",
+    "static/js/2.1fa85ef2.chunk.js": "/USTRAA/static/js/2.1fa85ef2.chunk.js",
+    "static/js/2.1fa85ef2.chunk.js.map": "/USTRAA/static/js/2.1fa85ef2.chunk.js.map",
+    "index.html": "/USTRAA/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/USTRAA/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.b64a0533.chunk.css.map": "/USTRAA/static/css/main.b64a0533.chunk.css.map",
+    "static/js/2.1fa85ef2.chunk.js.LICENSE.txt": "/USTRAA/static/js/2.1fa85ef2.chunk.js.LICENSE.txt",
+    "static/media/ustra.c3c5d429.jpg": "/USTRAA/static/media/ustra.c3c5d429.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9060347f.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.1fa85ef2.chunk.js",
+    "static/css/main.b64a0533.chunk.css",
+    "static/js/main.9e238654.chunk.js"
+  ]
+}
