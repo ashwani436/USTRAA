@@ -27,7 +27,7 @@ function Ustra() {
         getCategoryData();
     },[]);
     
-
+     
 
     
   
@@ -39,6 +39,10 @@ function Ustra() {
             <Nav/>
             <h3 className="my-3">Our Products</h3><hr/>
             <Row data={data}/>
+            <div>
+                <label>UserName:</label>
+                <input type="text" placeholder="username"/>
+            </div>
             </div>
         </>
     )
