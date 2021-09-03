@@ -22,6 +22,7 @@ function Row(props) {
                     <img  id={val.category_id} className="row_poster" src={val.category_image} alt="image_no"/>
                     {/* <p className="category">{val.category_name.toUpperCase()}</p> */}
                     
+                    
                    
                     
                     </>)
