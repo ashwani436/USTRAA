@@ -54,7 +54,7 @@ function Product(props){
                                         <div className="row g-3">
                                             <div className="col-lg-4 col-md-6 col-sm-4">
                                             <img className="card-img" src={val.image_urls.x520} style={{maxWidth:"300px"}} alt="Card"/>
-                                            
+                                            <p>This is local image</p>
                                             </div>
                                             <div className="col-lg-8 col-md-6 col-sm-8">
                                             <div className="card-body">
